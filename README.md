@@ -1,0 +1,1 @@
+# sesi_bcd_vps01_estoque_loja_2026
