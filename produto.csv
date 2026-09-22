@@ -1,5 +1,5 @@
-id;nome;descricao;preco;marca;id_categoria;id_fornecedor
-1;Body de Verao;Body 100% algodao organico;80;Algodao Doce;1;1
-2;Macacao de Leao;Macacao com l„ suave;100;Mini Estilo;2;2
-3;Vestido Floral;Vestido com estampa floral;120;Sonho de CrianÁa;3;3
-4;Conjunto Safari;Conjunto com estampa safari;200;Mini Estilo;4;2
+id,nome,descricao,preco,marca,id_categoria,id_fornecedor
+1,Body de Verao,Body 100% algodao organico,80,Algodao Doce,1,1
+2,Macacao de Leao,Macacao com l√£ suave,100,Mini Estilo,2,2
+3,Vestido Floral,Vestido com estampa floral,120,Sonho de Crian√ßa,3,3
+4,Conjunto Safari,Conjunto com estampa safari,200,Mini Estilo,4,2
