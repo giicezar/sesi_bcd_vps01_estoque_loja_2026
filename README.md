@@ -1,4 +1,4 @@
-# Projeto: Estoque de Loja de Roupas de Bebê
+# Projeto: Estoque de Loja
 
 ![MER DER Conceitual](./mer_der_conceitual.png)
 ![MER DER Lógico](./mer_der_logico.png)
